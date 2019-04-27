@@ -3,7 +3,6 @@ Mi primer comentario con git.
 Crear repositorio
 git init
 
-
 Agregar archivos al index
 git add "nombre del archivo"
 git add . 
@@ -19,3 +18,35 @@ git push -u origin "Nombre del branch"
 
 enviar comits al servidor
 git push -u origin "Nombre del branch"
+
+clonar repositorio
+local
+git clone "parth de la carpeta"
+
+remoto
+git clone "url del servidor"
+
+crear branch
+git checkout b "nombre de branch"
+
+cambiar de branch
+git checkout "nombre de branch"
+
+eliminar branch
+git branch -d "nombre de branch"
+
+descargar cambios
+git pull
+
+Fusionar cambios
+git merge "nombre de branch"
+
+Comparar branch
+git diff "nombre de branch" "target_branch"
+
+Estatus
+git status
+
+Log
+git log 
+
