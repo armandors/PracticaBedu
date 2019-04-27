@@ -1,1 +1,21 @@
 Mi primer comentario con git.
+
+Crear repositorio
+git init
+
+
+Agregar archivos al index
+git add "nombre del archivo"
+git add . 
+
+Agregar comentario
+git commit -m "Mi comentario"
+
+agregar remoto
+git remote add origin "url del servidor"
+
+enviar cambios al servidor
+git push -u origin "Nombre del branch"
+
+enviar comits al servidor
+git push -u origin "Nombre del branch"
