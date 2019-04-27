@@ -1,4 +1,1 @@
-Mi primer comentario con git
-
-git config --global user.email "armando.rosas.mkt@gmail.com"
-git config --global usaer.name "armandors"
+Mi primer comentario con git.
